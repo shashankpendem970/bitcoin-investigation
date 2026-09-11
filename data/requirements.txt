@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+networkx
+streamlit
+plotly
+pyvis
+hdbscan
+shap
